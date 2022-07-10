@@ -1,0 +1,14 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #DCD0C0;
+    text-align: center;
+}
+.Nombre{
+    font-weight: bold;
+    margin-top: 25%;
+}
+.ImagenPerfil{
+    border-radius: 10%;
+}
